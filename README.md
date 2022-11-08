@@ -39,6 +39,8 @@ Software Engineer
 
 <a href="http://www.github.com/maximschiffmann"><img src="https://activity-graph.herokuapp.com/graph?username=maximschiffmann&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+[![](https://visitcount.itsvg.in/api?id=maximschiffmann&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **maximschiffmann/maximschiffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
