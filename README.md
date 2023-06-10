@@ -37,7 +37,7 @@ Software Engineer
 
 <a href="http://www.github.com/maximschiffmann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maximschiffmann&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/maximschiffmann"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maximschiffmann&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/maximschiffmann"><img src="https://github-readme-activity-graph.vercel.app/graph?username=maximschiffmann&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=maximschiffmann&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
