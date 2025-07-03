@@ -9,7 +9,7 @@ Software Engineer
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://gamemaker.io/" target="_blank" rel="noreferrer"><img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1658484740" width="36" height="36" alt="Gamemaker Studio 2" /></a>
+<a href="https://gamemaker.io/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="36" height="36" alt="Gamemaker Studio 2" /></a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color.png" width="36" height="36" alt="Godot Engine icon (colored)"></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,8 +28,10 @@ Software Engineer
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://www.image-line.com/static/assets/nav-logo-fruit.41db863.png" width="25" height="39" alt="FL Studio" /></a>
 </p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -41,7 +43,7 @@ Software Engineer
 <a href="http://www.github.com/maximschiffmann"><img src="https://github-readme-activity-graph.vercel.app/graph?username=maximschiffmann&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=maximschiffmann&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
+-->
 <!--
 **maximschiffmann/maximschiffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Maxim's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MaximMaximus&theme=dark)
