@@ -28,7 +28,7 @@ Software Engineer
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://www.image-line.com/static/assets/nav-logo-fruit.41db863.png" width="25" height="39" alt="FL Studio" /></a>
+<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://abassets.image-line.com/unified-navigation/fruit-logo.png" width="220" height="39" alt="FL Studio" /></a>
 </p>
 
 <!--
